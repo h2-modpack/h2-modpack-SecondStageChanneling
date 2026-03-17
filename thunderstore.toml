@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-SecondStageChanneling"
+name = "SecondStageChanneling"
 versionNumber = "1.0.0"
 description = "Removes 2nd stage channel of Glorious Disaster/Giga Moonburst, baking bonus into stage 1."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-SecondStageChanneling"
