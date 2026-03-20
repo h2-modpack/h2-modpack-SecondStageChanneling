@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "SecondStageChanneling"
 versionNumber = "1.0.0"
 description = "Removes 2nd stage channel of Glorious Disaster/Giga Moonburst, baking bonus into stage 1."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-SecondStageChanneling"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-SecondStageChanneling"
 containsNsfwContent = false
 
 [package.dependencies]
