@@ -48,7 +48,7 @@ end
 public.definition = {
     id       = "SecondStageChannelingFix",
     name     = "Remove Second Channeling",
-    category = "BugFixes",
+    category = "Bug Fixes",
     group    = "Boons & Hammers",
     tooltip  = "Removes 2nd stage channel of Glorious Disaster/Giga Moonburst, baking bonus into stage 1.",
     default  = true,
